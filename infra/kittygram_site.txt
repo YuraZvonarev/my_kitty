@@ -1,5 +1,5 @@
 IP: 158.160.255.103;
-name_taski: http://158.160.255.103;
+name_taski: https://158.160.255.103;
 name_kittygram: https://yzkitty.hopto.org;
 login: admin;
 password: 123456789sciffeyrasciffe;
